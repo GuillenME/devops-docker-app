@@ -23,4 +23,3 @@ jobs:
         with:
           push: true
           tags: guillenmariana550/devops-docker-app:latest
-  
